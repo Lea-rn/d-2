@@ -1,0 +1,21 @@
+/* element {
+    proprity : value 
+} */
+
+
+.abc {
+color: palevioletred;
+background-color: blueviolet;
+/* border-style: solid;
+border-color: black;
+border-width: 5px; */
+border: solid black 10px;
+}
+
+.name{
+    color: aqua;
+    background-color: #843345;
+}
+
+
+/* { } curly braces */
